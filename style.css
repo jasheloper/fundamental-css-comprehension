@@ -40,3 +40,7 @@ header, footer {
 h2, p {
     margin: 0;
 }
+article {
+    height: 12em;
+    background-color: rgba(0,0,0,.2);
+}
