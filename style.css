@@ -32,4 +32,11 @@ body {
     border-radius: 1.5em;
 }
 /* Header and Footer styles */
+header, footer {
+    height: 3em;
+    padding: 1em;
+}
 /* Main Card Contents styles */
+h2, p {
+    margin: 0;
+}
