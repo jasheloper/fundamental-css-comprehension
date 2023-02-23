@@ -1,0 +1,15 @@
+/* General styles - put these straight into your stylesheet */
+
+body {
+    margin: 0;
+  }
+  
+  html {
+    font-family: 'Helvetica neue', Arial, 'sans serif';
+    font-size: 10px;
+    background-color: #ccc;
+  }
+
+/* Card Container styles */
+/* Header and Footer styles */
+/* Main Card Contents styles */
