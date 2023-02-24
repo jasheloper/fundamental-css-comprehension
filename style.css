@@ -44,3 +44,12 @@ article {
     height: 12em;
     background-color: rgba(0,0,0,.2);
 }
+h2 {
+    font-size: 2em;
+    line-height: 1.5;
+}
+
+footer p {
+    font-size: 1.5em;
+    line-height: 2;
+}
