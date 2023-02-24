@@ -1,4 +1,5 @@
 /* General styles */
+
 body {
     margin: 0;
   }
@@ -9,6 +10,7 @@ body {
   }
 
 /* Card Container styles */
+
 .card {
     width: 35em;
     height: 22em;
@@ -32,28 +34,31 @@ body {
 
 
 /* Header and Footer styles */
+
 header, footer {
     height: 3em;
     padding: 1em;
 }
 
+
 /* Main Card Contents styles */
-h2, p {
+
+.card h2, .card p {
     margin: 0;
 }
-article {
+.card article {
     height: 12em;
     background-color: rgba(0,0,0,.2);
 }
-article p {
+.card article p {
     padding: 1em;
     color: whitesmoke;
 }
-h2 {
+.card h2 {
     font-size: 2em;
     line-height: 1.5;
 }
-footer p {
+.card footer p {
     font-size: 1.5em;
     line-height: 2;
 }
