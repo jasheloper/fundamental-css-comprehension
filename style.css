@@ -35,7 +35,7 @@ body {
 
 /* Header and Footer styles */
 
-header, footer {
+.card header, .card footer {
     height: 3em;
     padding: 1em;
 }
