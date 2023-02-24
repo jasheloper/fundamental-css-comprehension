@@ -44,6 +44,10 @@ article {
     height: 12em;
     background-color: rgba(0,0,0,.2);
 }
+article p {
+    padding: 1em;
+    color: whitesmoke;
+}
 h2 {
     font-size: 2em;
     line-height: 1.5;
