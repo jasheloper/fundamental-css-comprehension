@@ -1,16 +1,18 @@
-# Fundamental CSS comprehension
+# Final Project (preview)
 
-To test comprehension of fundamental CSS theory, syntax and mechanics.
+![Fundamental CSS comprehension final project preview](preview.png)
 
-https://jasheloper.github.io/fundamental-css-comprehension/
+Link: https://jasheloper.github.io/fundamental-css-comprehension/
 
 
 <br>
 
 
-## Final Project (preview)
+## Objective
 
-![Fundamental CSS comprehension final project preview](preview.png)
+To test comprehension of fundamental CSS theory, syntax and mechanics.
+
+
 
 <br>
 
