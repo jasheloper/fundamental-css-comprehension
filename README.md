@@ -1,8 +1,12 @@
 # Final Project (preview)
 
+Link: https://jasheloper.github.io/fundamental-css-comprehension/ 
+
+<br>
+
 ![Fundamental CSS comprehension final project preview](preview.png)
 
-Link: https://jasheloper.github.io/fundamental-css-comprehension/
+
 
 
 <br>
